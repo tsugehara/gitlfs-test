@@ -1,0 +1,4 @@
+gitlfs-test
+----
+
+GitLFSのテストをするためのrepsitory。
